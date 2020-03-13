@@ -7,18 +7,15 @@
     6. Elavation of Privilege.
 * **What is the first step in an attack tree threat analysis process?**
     A attack tree threat analysis starts with a *good* system description.
-* **Make an attack tree based analysis of a BankID system**
-    No.
+* ~~**Make an attack tree based analysis of a BankID system**~~
 * **List three well established threat assessment methodologies**
     1. Attack tree.
     2. Microsoft (STRIDE).
     3. MITRE (TARA).
 * **Spell out the acronym STRIDE**
     **R**poofing **T**ampering **R**epudiation **I**nformation disclosure **D**enial of Service **E**levation of Privilege.
-    * **Explain the meaning of the six different concepts in STRIDE**
-        ---
-    * **Give examples of attacks for the six different concepts in STRIDE**
-        ---
+    * ~~**Explain the meaning of the six different concepts in STRIDE**~~        
+    * ~~**Give examples of attacks for the six different concepts in STRIDE**~~
 * **Which are the three basic steps in STRIDE?**
     1. Identify main entities in the system.
     2. Identify main entities interactions.
@@ -60,10 +57,8 @@
         Possible reason for exluding TTPs might be:
             * The target system does not include a component need for the TTP to apply, SQL injection requires an SQL database for example.
             * A system might already have gone through an assessment which eliminates possible TTPs etc.
-    4. Apply scoring model.
-        ---
-    5. Construct the threat matrix.
-        ---
+    4. ~~Apply scoring model.~~
+    5. ~~Construct the threat matrix.~~
 * **Spell out the acronyms CAPEC, CWE and CVE**
     1. **C**ommon **A**ttack **P**attern **E**numeration and **C**lassification
     2. **C**ommon **W**eakness **E**numeration
@@ -87,8 +82,7 @@
         *  The MITRE CAPEC database is also a source for identifying potential countermeasures.
     3. Assess countermeasures merits.
         * Score countermeasures on things like the type of mitigation and effectiveness.
-    4. Identify an "optimal" countermeasure solution.
-        ---
+    4. ~~Identify an "optimal" countermeasure solution.~~
     5. Prepare recommendations.
         * The final recomendations is the actual requirements list and should include the following:
             1. The action, device, procedure or technique recommended, i.e., what countermeasure to apply.
@@ -107,8 +101,7 @@
         * Less effective countermeasures may be combined to satisfy the previous condition.
         * A detected countermeasure is required to TTPs that have no neatralize countermeasure.
     * Prepare a list of solutions together with the associated costs.
-* **How do one select final TARA recommendations based on a countermeasure ranking table?**
-    ---
+* ~~**How do one select final TARA recommendations based on a countermeasure ranking table?**~~
 * **Which are the three mandatory parts of a TARA TTP recommendation?**
     1. The action, device, procedure or technique recommended, i.e., what countermeasure to apply.
     2. The reason the countermeasure is required, i.e., the TTPs that it mitigates.
