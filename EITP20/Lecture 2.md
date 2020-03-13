@@ -17,8 +17,8 @@
     3. MITRE (TARA).
 * __Spell out the acronym STRIDE__
 
-    __S__poofing __T__ampering __R__epudiation __I__nformation disclosure __D__enial of Service __E__levation of Privilege.
-    * ~~__Explain the meaning of the six different concepts in STRIDE__~~        
+    **S**poofing **T**ampering **R**epudiation **I**nformation disclosure **D**enial of Service **E**levation of Privilege.
+    * ~~__Explain the meaning of the six different concepts in STRIDE__~~
     * ~~__Give examples of attacks for the six different concepts in STRIDE__~~
 * __Which are the three basic steps in STRIDE?__
     1. Identify main entities in the system.
