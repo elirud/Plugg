@@ -13,7 +13,7 @@
     2. Microsoft (STRIDE).
     3. MITRE (TARA).
 * **Spell out the acronym STRIDE**
-    **R**poofing **T**ampering **R**epudiation **I**nformation disclosure **D**enial of Service **E**levation of Privilege.
+    **S**poofing **T**ampering **R**epudiation **I**nformation disclosure **D**enial of Service **E**levation of Privilege.
     * ~~**Explain the meaning of the six different concepts in STRIDE**~~        
     * ~~**Give examples of attacks for the six different concepts in STRIDE**~~
 * **Which are the three basic steps in STRIDE?**
