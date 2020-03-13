@@ -117,6 +117,13 @@
     1. Open source.
     2. Classified sources.
 * **Which are the main outputs from the attack tree, the STRIDE and the TARA process respectively which are used to derive high-level security requirements?**
+    * Attack tree gives you a look of high level attack goals, and possible vulnerabilities to achieve them.
+    * STRIDE is meant to help people identify typical attacks on software systems, and will help identify key system elements which will lead to STRIDE tables as output.
+    * TARA will give TTPs as output from CTSA, and also a threat matrix. CRRA will establish countermeasures and together output another matrix.
 * **Give example of high level security requirements for a Bank ID system**
 * **Give example of low level security requirements  for a Bank ID system**
 * **Describe a four step approach for security requirements identification and documentation**
+    1. Establish goals.
+    2. Connect vulnerabilities to goals.
+    3. Find countermeasures for vulnerabilities.
+    4. Document and present your findings.
